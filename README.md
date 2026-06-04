@@ -35,8 +35,10 @@ You can use it for:
 **Original game design**
 
 <img width="1391" height="951" alt="game-layout" src="https://github.com/user-attachments/assets/361daa12-74be-4400-856e-9c6360be089d" />
-<img width="1281" height="916" alt="game-level1to10" src="https://github.com/user-attachments/assets/e3b55c16-0e31-4ac1-8e18-82f96f194ac0" />
 
+## Contact Details
 
+GitHub: https://github.com/Benlarcom
+LinkedIn: https://www.linkedin.com/in/leonard-makgopa
 
 
