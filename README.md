@@ -19,8 +19,8 @@ You can use it for:
 
 - HTML5 / CSS3
 - JavaScript (ES6+)
-- React (if applicable)
-- Vite (for fast development)
+- React
+- Vite
 - Git & GitHub
 
 
