@@ -38,7 +38,7 @@ You can use it for:
 
 ## Contact Details
 
-GitHub: https://github.com/Benlarcom
-LinkedIn: https://www.linkedin.com/in/leonard-makgopa
+- GitHub: https://github.com/Benlarcom
+- LinkedIn: https://www.linkedin.com/in/leonard-makgopa
 
 
