@@ -34,6 +34,8 @@ You can use it for:
 
 **Original game design**
 
+The idea initiated in 2021/2022 and that's when the game layout was designed, along with the actual game design including props. The images of the initial design are also available on Behance
+
 <img width="1391" height="951" alt="game-layout" src="https://github.com/user-attachments/assets/361daa12-74be-4400-856e-9c6360be089d" />
 
 ## Contact Details
